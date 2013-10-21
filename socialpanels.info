@@ -1,0 +1,8 @@
+name = "Social Panels Pane"
+description = "Twitter and Facebook integration for Panels as a CTools Plugin."
+core = 7.x
+package = Third Party Integration
+configure = admin/config/socialpanels/defaults
+
+dependencies[] = ctools
+dependencies[] = panels
